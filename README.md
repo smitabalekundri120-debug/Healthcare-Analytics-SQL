@@ -43,6 +43,7 @@ Healthcare_Analytics
 
 ## Repository Contents
 - Healthcare_Analytics.sql
+- query_output - "joins_windowfunction_output.png"
 - README.md
 
 ## Final Conclusion
